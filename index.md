@@ -2,7 +2,7 @@
 
 CasCADe is a tool to automatically detect casualty changes. An overview of its workflow can be found in the figure below. 
 
-![](approach.png)
+<img src="approach.png" > 
 
 
 ### CasCADe's Code
